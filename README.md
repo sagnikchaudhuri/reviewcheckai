@@ -71,7 +71,9 @@ output/reviews.csv
 - Implemented retry logic for API reliability
 - Avoided direct scraping due to site restrictions
 
-
+## Demo Video
+Click on the link below
+https://drive.google.com/drive/folders/1s90NkX4tIlVgeMA3RPzjeYdmz9nh4GGa?usp=sharing
 
 
 
